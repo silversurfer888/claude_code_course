@@ -36,8 +36,8 @@ Let's build something beautiful. We'll use a high-level skill to architect a pre
 ### **[Module 5: The Trend Pulse (Parallel Agents)](course/05_agentic_automation.md)**
 Learn how to spawn an army of Claude agents to research Reddit, Twitter, and the news simultaneously so you're always ahead of the curve.
 
-### **[Module 6: Infinite Scale & Beyond](course/06_infinite_scale.md)**
-How to use your **Freebie Pack** and the bridge to the **ViralSpin AI Course** for advanced acceleration.
+### **[Module 6: The Infinite Content Loop](course/06_infinite_scale.md)**
+We wrap everything into a repeatable system. It’s time to move beyond automation and start manifesting AI talking heads, viral carousels, and reverse-engineered content with the **ViralSpin Vibe-Coding OS.**
 
 ---
 
