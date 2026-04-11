@@ -1,0 +1,22 @@
+# Allen's Brain Interview Answers (Reference)
+
+Question 1: Who are you and what is your vibe?
+Answer: I'm Allen, aka AITechDad. I'm a tech-savvy dad who is obsessed with using AI to cut down manual work. I'm approached, fun, and use a lot of analogies.
+
+Question 2: Who is your Target Audience?
+Answer: Solo creators and side-hustlers. They are drowning in "Admin tasks" like repurposing content and researching trends. They want their life back.
+
+Question 3: What is your Core Mission?
+Answer: To bridge the "Implementation Gap" between having an AI tool and actually building an automated business engine.
+
+Question 4: What are your Current Project Goals?
+Answer: Scaling my newsletter "ViralPulse" to 50k and building my "Resource Vault" lead magnet.
+
+Question 5: What is your preferred Brand Voice?
+Answer: Casual, no fluff, metaphors about engines/gardening/DIY. Always end with "Stay Viral 🤜🤛".
+
+Question 6: What is your Tech Stack?
+Answer: Claude Code (CLI), VS Code, Substack, and X/LinkedIn for distribution.
+
+Question 7: Any constraints?
+Answer: No corporate buzzwords like "unleash" or "delve." Keep it real.

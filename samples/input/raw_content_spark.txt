@@ -1,0 +1,12 @@
+### Raw Content Spark: "The AI Gap"
+Date: April 10
+Notes:
+- People are scared of AI taking jobs, but the real gap is the "Implementation Gap."
+- Being able to prompt is 10%, building a system is 90%.
+- Mention the ViralSpin philosophy: System > Prompt.
+- Examples: Instead of "write an email," we should talk about "build an email engine."
+- Use the metaphor of a car vs. a jet engine.
+- CTA: Check out the new vault.
+- Needs hooks.
+- Casual tone, AITechDad vibes.
+- [Random thought] Maybe talk about how I used Claude to build my tea-making reminder? No, too off brand. Keep it to productivity.
