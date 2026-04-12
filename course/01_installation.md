@@ -3,21 +3,29 @@
 
 Hey Creator! Allen (AITechDad) here. 🤜🤛
 
-First things first: We need to get the engine running. 
+First things first: We need to get the engine running. Choose the path that matches your comfort level. 
 
 ---
 
-## 🛠️ Step 1: Install Your Engine
-Choose the path that matches your comfort level. You need to get the software on your machine before we can start building.
+## 🛠️ Path A: The Desktop Apps (Best for Beginners) 🖼️
+Use this if you want a visual dashboard. Pick **one** of the options below:
 
-### Path A: The Desktop Apps (Best for Beginners) 🖼️
-- **The Magic Tab**: You’ll be using the **"Code"** mode. This is the only tab that can see your folders and run the automations in this course.
-- **Claude Download**: [**claude.ai/download**](https://claude.ai/download)
-- **Antigravity Download**: [**antigravity.google**](https://antigravity.google/)
+### Option 1: Claude (Official)
+1. **Download**: Go to [**claude.ai/download**](https://claude.ai/download) and install the software.
+2. **Setup**: Once the app opens, you will see three tabs at the top. 
+3. **The Secret**: Select the **"Code"** tab. This is your command center for the course. 🤜🤛
 
-### Path B: The Terminal Engine (Best for Pro Automation) 🏎️💨
+### Option 2: Antigravity (Speedster)
+1. **Download**: Go to [**antigravity.google**](https://antigravity.google/) and download.
+2. **Install**: Follow the one-click setup. No tabs to select—Antigravity is built for this from the ground up.
+
+---
+
+## 🏎️ Path B: The Terminal Engine (Pro Automation) 💨
+Use this if you want raw speed and the ability to automate your machine's core. 
+
 1. **Node.js**: Install [Node.js](https://nodejs.org) on your machine.
-2. **Install**: Open your terminal and run the command for your chosen tool:
+2. **Install CLI**: Open your terminal and run the command for your chosen tool:
    - **Claude Code**: `npm install -g @anthropic-ai/claude-code`
    - **Antigravity**: `npm install -g @antigravity/cli`
 3. **Login**: Type `claude login` or `antigravity login`.
@@ -25,39 +33,23 @@ Choose the path that matches your comfort level. You need to get the software on
 ---
 
 ## 📍 Step 2: Set the Stage (The Workspace) 
-Now that the software is installed, the AI needs to be pointed at the right target. It needs to be opened **inside** the `ViralSpin AI Course` folder.
+Now that the tech is ready, point it at the course folder. **You must be "Inside" this folder for the AI to see your assets.**
 
-### If you are using Path A (The App):
-1. Open the Claude or Antigravity software.
-2. Click **"Open Folder"** or **"Select Workspace"**.
-3. Choose the `ViralSpin AI Course` folder you just downloaded.
-4. Click the **"Code"** tab at the top.
-
-### If you are using Path B (The Terminal):
-1. Open your terminal.
-2. Use the `cd` command to navigate **into** the course folder. For example:
-   `cd Documents/GitHub/ViralSpin-AI-Course`
-3. **Verify**: Type `ls` (Mac) or `dir` (Windows). If you see the `course` and `samples` folders, you are in the right place!
+- **Apps (Path A)**: Click **"Open Folder"** and select the `ViralSpin AI Course` directory.
+- **Terminal (Path B)**: Use `cd` to navigate into the folder. Type `dir` (Windows) or `ls` (Mac) to verify you see `course` and `samples`.
 
 ---
 
-## 🧔 Step 3: Configure Your "Creator Brain"
-Now that the tech is installed and the workspace is set, it’s time to build your identity. 
-
-**Run this command to begin your personalized strategy interview:**
+## 🧔 Step 3: Build Your Brain
+Run this command to begin your personalized strategy interview:
 ```bash
 onboard-me
 ```
-*(Note: If the command doesn't trigger, try `claude onboard-me` or `antigravity onboard-me`).*
+*(Note: Use `claude onboard-me` or `antigravity onboard-me` if the shortcut isn't set.)*
 
 ---
 
 ## ✅ Verification
-Once the interview is over, you should see a **`CLAUDE.md`** file in your project root. 
+Once the interview ends, look for [**`CLAUDE.md`**](samples/output/01_installation/CLAUDE.md) in your project root. 
 
-**Want to see what a 'Pro' result looks like?** 
-- **The Input**: [**`allen_interview_answers.txt`**](samples/input/allen_interview_answers.txt) (Raw chaos).
-- **The Output**: [**`CLAUDE.md`**](samples/output/01_installation/CLAUDE.md) (The strategy).
-
-**Now that the engine is purring, let's see the magic.**
 👉 **[Module 2: The Magic Moment](02_first_magic.md)**
