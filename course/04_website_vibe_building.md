@@ -1,86 +1,58 @@
-# Module 4: Vibe-Coding Your Vault 💎
-### *Iteration, Design, and The Creative Director Mindset*
+# Module 4: Website Vibe-Building 💎
+### *Architecture, Aesthetics, and the Digital Showroom*
 
-Hey Creator! AITechDad here. 🤜🤛
+Hey Creator! Allen here. 🤜🤛
 
-If Lesson 3 was about building the **Engine** (Industrialized Skills), Lesson 4 is about building the **Showroom**. 
-
-When it comes to design, you don't want a "Skill" that stamps out a template. You want to **Vibe.** You want to chat with Claude, iterate on the visuals, and "feel" your way to a premium brand home.
+In this module, we’re going to build a **Website**. We’ve chosen this task because it is the **ultimate visual environment** to demonstrate the power of **Vibe-Coding.** A website is the perfect laboratory to see how the AI reacts to your aesthetic taste in real-time.
 
 ---
 
-## 🎨 Part 1: Manifesting the "Resource Vault"
-We aren't going to use a rigid skill here. We're going to use **Vibe-Coding.** This is where you talk to Claude like a High-End Designer.
+## 🏛️ Section 1: The Showroom Lab
+Think of your social posts as the "Billboards" on the highway. We’re building a **Showroom**—a permanent way to showcase your brand, logic, and results exactly how you want them to be seen.
 
-**The Action: Give Claude your vision.**
-Open Claude Code and tell it:
+We aren't just building a "page"; we are manifesting a visual environment that proves you are a **Systems Architect.** This is where you move from "Copywriter" to "Creative Director."
+
+---
+
+## 🎨 Section 2: Vibing vs. Coding
+In the last module, we built **Custom Skills** (Hardened Processes). But for your Showroom, we go back to **Vibing.**
+
+**Why Vibe here?**
+Because a brand's aesthetic is subjective and iterative. You don't want a rigid process to build your home; you want a creative partner who can react to your taste. 
+
+### The Vibe-Coding Feedback Loop:
+1.  **Manifest**: You describe the "Vibe" (e.g., *"Glassmorphic dark mode with neon accents"*).
+2.  **Observe**: Claude generates the code (`index.html`) instantly.
+3.  **Iterate**: You react to the result (*"Make the headers more bold and add a glow to the buttons"*).
+
+---
+
+## 🏗️ The Action: Building the Vault
+We are going to manifest a **Digital Resource Vault**—the ultimate lead magnet for your brand.
+
+**The Prompt**: 
 ```bash
-claude "Build me a premium, mobile-responsive single-page website called index.html. I want it to be my 'AI Resource Vault.' Use vanilla HTML/CSS with a dark mode glassmorphic aesthetic. Research my CLAUDE.md to write the Hero section about my mission as a creator. Include placeholders for 'Featured Prompts' and 'Top Tools'."
+claude "Build a premium, glassmorphic index.html file for my Digital Resource Vault. Use a dark theme with vibrant accents. Include sections for 'Top Tools', 'The Alpha System', and a link to the ViralSpin Masterclass. Use the persona in CLAUDE.md to write the copy."
 ```
 
-(You can see a finished example of this in **samples/output/04_website_vibe_building/index.html**)
+**The Goal**: Watch as the AI handles 100% of the CSS and HTML. Your job is to be the **Creative Director.**
 
 ---
 
-## 🎨 Part 2: Mastering "The Vibe"
-Wait—it’s not perfect yet? Good. Vibe-coding is fundamentally iterative. You don't get the perfect design on the first try; you *finesse* it.
+## ✅ Exercise: Expanding the Showroom
+Once the foundational vault is built, don't stop. This is where **Vibe-Coding** becomes addictive. Try these expansion prompts to turn your site into a full platform:
 
-**Try refining your Vault with these 'Vibe' prompts:**
-- *"The background is a bit flat. Add a subtle animated gradient or a grainy texture to make it feel more premium."*
-- *"The card components need more 'depth.' Add a subtle blur effect and a thin border to the corners."*
-- *"Add a smooth hover animation to the cards—make them slightly lift and glow when I mouse over them."*
-
-**Why this matters:**
-This is where you stop being a "Coder" and start being a **"Creative Director."** You aren't typing tags; you're iterating on a vision. This is the \#1 secret to building world-class assets at 10x speed.
+- **Add Modules**: *"Add a new section below the tools that highlights my upcoming 'AI Mastery' cohort with a countdown timer."*
+- **Create a Content Hub**: *"Create a blog post module at the bottom. Write a placeholder post about the 'Top 3 AI Tech Trends for 2026' in my brand voice."*
+- **Build New Pages**: *"Now, create a separate 'Pricing.html' and 'About-Us.html' page that follow the exact same style as the index page. Include a clean navigation menu at the top of all pages so users can jump between them."*
+- **Aesthetic Refinement**: *"Add a smooth hover animation to the resource cards and change the primary color to high-signal electric blue."*
 
 ---
 
-## 🚀 Part 3: The Expansion (Beyond the One-Pager)
-Once your foundation is solid, don't stop there. Your "Resource Vault" can grow into a full-blown digital ecosystem. Remember: **If you can describe it, Claude can build it.**
-
-Try these "Expansion Prompts" to take your site to the next level:
-
-### 1. Adding Social Proof
-*"I need to add a Testimonials section under the Hero. Build it as a 3-column layout with circular avatars. Write 3 mock testimonials from people who used my AI Resource Vault to save 20 hours a week."*
-
-### 2. Manifesting New Pages
-*"I want to add a dedicated 'About Me' page. Create a new file called about.html. Ensure it uses the exact same CSS variables and glassmorphic styling as index.html. Write a story-driven bio based on my persona in CLAUDE.md."*
-
-### 3. Case Studies & Success Stories
-*"Create a 'Case Study' component for a new page. Use a 'Before vs. After' layout to show how a creator went from 14-hour manual days to a 2-minute 'Alpha Loop.' Make it feel like a premium tech review."*
-
-### 4. Branded Blog Articles
-*"Take my 'Polished Script' from Module 3 and turn it into a deep-dive blog post. Create a dedicated article layout with a focused reading width, pull-quotes, and a clear call-to-action at the bottom."*
+**Ready to see the "Pro" level results?**
+👉 [**Check out the Sample Showroom (index.html)**](samples/output/04_website_vibe_building/index.html)
 
 ---
 
----
-
-## 🤔 Why "Vibe" instead of "Skill"?
-You might ask: *"If I'm doing this multiple times, shouldn't I just build a skill?"* 
-
-The answer lies in the difference between **Automation** and **Iteration.**
-
-### 1. The Feedback Loop (Reaction > Logic)
-**Automation (Skills)** is a straight line. You want your `script-it` skill to give you a perfect script every time without you re-thinking. 
-**Iteration (Vibing)** is a spiral. Design is 10% instructions and 90% reaction. You see the way the light hits the glassmorphism, and you realize it needs 5% more blur. You can't "automate" a feeling; you have to vibe with it.
-
-### 2. Reactive Intelligence
-When you Vibe, Claude isn't just following a static file in `/skills`. It is looking at the **current state** of your `index.html`. 
-It sees the actual CSS it just wrote and reacts to your feedback (e.g., *"The contrast is too low"*). This live-feedback loop is what allows you to build deep, complex UIs that a rigid skill could never handle.
-
-### 3. Iteration vs. Consistency
-Use **Skills** when you want the **same** result every time.
-Use **Vibing** when you want a **better** result every time. 
-
-Building your brand home isn't a "one-click" task; it's a deep-dive forge. You and Claude are pair-programming the vision in real-time. This is the ultimate "Creative Director" experience.
-
----
-
-## ✅ Exercise: Finesse the Vault
-1. Run the initial build command.
-2. Open `index.html` in your browser.
-3. Give Claude 3 "Design Critic" prompts to make it look 1% better each time. 
-
-**Ready to see how to scout the entire web for trends using your new team?**
-👉 **[Module 5: The Agentic Pulse](05_agentic_automation.md)**
+**Ready to spawn an army of scouts to find your next viral idea?**
+👉 [**Module 5: The Agentic Pulse**](05_agentic_automation.md)
