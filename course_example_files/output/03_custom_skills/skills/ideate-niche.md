@@ -9,7 +9,7 @@ Generate 5 high-potential content hooks that bridge the gap between "Tech Capabi
 ## 🛠️ Execution Steps
 
 ### Step 1: Trend Awareness
-- Read `samples/input/raw_content_spark.txt` (or whatever raw notes are provided).
+- Read `course_example_files/input/raw_content_spark.txt` (or whatever raw notes are provided).
 - Check `CLAUDE.md` for current high-level goals (e.g., Growth vs. Conversion).
 
 ### Step 2: Pitch Construction

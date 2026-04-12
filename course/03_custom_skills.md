@@ -15,27 +15,27 @@ We are going to build your first five automated employees. These capture your pr
 ### 1. `ideate-niche` (The Spark) ⚡
 - **The Process**: Scratches your research notes to find hooks.
 - **Instruction**: Run `claude /ideate-niche`.
-- **Result**: [**`ideate-niche_output.md`**](../samples/output/03_custom_skills/ideate-niche_output.md)
+- **Result**: [**`ideate-niche_output.md`**](../course_example_files/output/03_custom_skills/ideate-niche_output.md)
 
 ### 2. `script-it` (The Writer) ✍️
 - **The Process**: Turns hooks into formatted scripts.
 - **Instruction**: Run `claude /script-it`.
-- **Result**: [**`script-it_output.md`**](../samples/output/03_custom_skills/script-it_output.md)
+- **Result**: [**`script-it_output.md`**](../course_example_files/output/03_custom_skills/script-it_output.md)
 
 ### 3. `multiply` (The Distributor) 📢
 - **The Process**: Fragments 1 script into 5+ assets.
 - **Instruction**: Run `claude /multiply`.
-- **Result**: [**`multiply_output.md`**](../samples/output/03_custom_skills/multiply_output.md)
+- **Result**: [**`multiply_output.md`**](../course_example_files/output/03_custom_skills/multiply_output.md)
 
 ### 4. `audit-voice` (The Humanizer) 🧔
 - **The Process**: Strips AI-bias and restores your persona.
 - **Instruction**: Run `claude /audit-voice`.
-- **Result**: [**`audit-voice_output.md`**](../samples/output/03_custom_skills/audit-voice_output.md)
+- **Result**: [**`audit-voice_output.md`**](../course_example_files/output/03_custom_skills/audit-voice_output.md)
 
 ### 5. `viral-bridge` (The Closer) 🤜🤛
 - **The Process**: Connects content to your masterclass/links.
 - **Instruction**: Run `claude /viral-bridge`.
-- **Result**: [**`viral-bridge_output.md`**](../samples/output/03_custom_skills/viral-bridge_output.md)
+- **Result**: [**`viral-bridge_output.md`**](../course_example_files/output/03_custom_skills/viral-bridge_output.md)
 
 ---
 

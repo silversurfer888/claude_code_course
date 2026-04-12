@@ -36,8 +36,8 @@ Scale to infinity. Consolidate your knowledge into a **Weekly Ritual** and see t
 
 ## 📂 Project Structure
 - **/course**: The 6-module curriculum.
-- **/samples/input**: Raw materials for testing your skills.
-- **/samples/output**: The "Solution Keys" to see what elite results look like.
+- **/course_example_files/input**: Raw materials for testing your skills.
+- **/course_example_files/output**: The "Solution Keys" to see what elite results look like.
 - **/skills**: (You'll create this!) Where your automated "Employees" live.
 
 **Ready to start? Let's go.**

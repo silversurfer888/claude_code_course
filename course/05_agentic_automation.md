@@ -39,17 +39,17 @@ Want to see the results of a true high-level delegation? Here are the three miss
 ### 1. The Pivot Scan (Standard Demo) 🛰️
 **Mission**: Audit the content roadmap from Module 2 against the last 48 hours of AI news.
 **Prompt**: *"Research the last 48 hours of AI creator news. Goal: Identify if there is a 'New Wave' that makes my content roadmap in propose_roadmap_output.md obsolete. Propose a Pivot or a 'Stay the Course' recommendation."*
-**Output**: [**`pivot_scan_output.md`**](samples/output/05_agentic_automation/pivot_scan_output.md)
+**Output**: [**`pivot_scan_output.md`**](course_example_files/output/05_agentic_automation/pivot_scan_output.md)
 
 ### 2. The Competitor Audit (Bonus) 🧐
 **Mission**: Find the "Logic Gaps" in the landing pages of top competitors.
 **Prompt**: *"Audit the landing pages of my top 2 competitors in the AI niche. Goal: Identify their 'Speed-to-Result' promises. Task: Find the gap where my Alpha System is superior."*
-**Output**: [**`competitor_audit_output.md`**](samples/output/05_agentic_automation/competitor_audit_output.md)
+**Output**: [**`competitor_audit_output.md`**](course_example_files/output/05_agentic_automation/competitor_audit_output.md)
 
 ### 3. The Ad-Creative Blitz (Bonus) 🚀
 **Mission**: Generate 5 high-converting ad hooks based on proven viral patterns.
 **Prompt**: *"Research high-converting ads in the AI solopreneur niche. Goal: Create 5 viral hooks for a Meta campaign. Task: Synthesize these with my 'Allen' persona in CLAUDE.md."*
-**Output**: [**`ad_creative_blitz_output.md`**](samples/output/05_agentic_automation/ad_creative_blitz_output.md)
+**Output**: [**`ad_creative_blitz_output.md`**](course_example_files/output/05_agentic_automation/ad_creative_blitz_output.md)
 
 ---
 

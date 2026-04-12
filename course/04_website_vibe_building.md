@@ -50,7 +50,7 @@ Once the foundational vault is built, don't stop. This is where **Vibe-Coding** 
 ---
 
 **Ready to see the "Pro" level results?**
-👉 [**Check out the Sample Showroom (index.html)**](samples/output/04_website_vibe_building/index.html)
+👉 [**Check out the Sample Showroom (index.html)**](course_example_files/output/04_website_vibe_building/index.html)
 
 ---
 

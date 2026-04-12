@@ -33,7 +33,7 @@ claude "Audit the top 3 'Free AI Toolkits' in our niche. Goal: Find their 'Value
 
 **The Prompt**:
 ```bash
-claude "Audit the landing page at [URL]. Goal: Find 3 things they are missing that my Alpha System in samples/output/01_personalization/CLAUDE.md provides. Task: Write a 'Comparison Case Study' that highlights my Speed-to-Result advantage. Constant: Stay in the AITechDad casual-authority voice."
+claude "Audit the landing page at [URL]. Goal: Find 3 things they are missing that my Alpha System in course_example_files/output/01_personalization/CLAUDE.md provides. Task: Write a 'Comparison Case Study' that highlights my Speed-to-Result advantage. Constant: Stay in the AITechDad casual-authority voice."
 ```
 
 ---

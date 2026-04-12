@@ -14,7 +14,7 @@
 
 ## 🛠️ Creator Workflows
 - **Onboard-Me**: Interview me to refine this brand document.
-- **Ideate**: Run discovery on my `/samples/input` folder to find 5 hooks.
+- **Ideate**: Run discovery on my `/course_example_files/input` folder to find 5 hooks.
 - **Script**: Turn a hook into a 60s video and a newsletter draft.
 - **Multiply**: Distribute a script across LinkedIn, X, and Video Hooks.
 - **Audit-Voice**: Strip out AI-isms and restore the Allen persona.

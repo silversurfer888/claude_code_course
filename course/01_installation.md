@@ -50,6 +50,6 @@ onboard-me
 ---
 
 ## ✅ Verification
-Once the interview ends, look for [**`CLAUDE.md`**](samples/output/01_installation/CLAUDE.md) in your project root. 
+Once the interview ends, look for [**`CLAUDE.md`**](course_example_files/output/01_installation/CLAUDE.md) in your project root. 
 
 👉 **[Module 2: The Magic Moment](02_first_magic.md)**

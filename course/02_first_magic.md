@@ -35,7 +35,7 @@ The "First Magic" is the **Autonomous Intake.** You are going to watch a **Nativ
 
 **The Action**: Run this active research prompt:
 ```bash
-claude "Review my messy notes in samples/input and propose a 5-day content roadmap that perfectly aligns with my persona in CLAUDE.md"
+claude "Review my messy notes in course_example_files/input and propose a 5-day content roadmap that perfectly aligns with my persona in CLAUDE.md"
 ```
 
 **The Magic**: You aren't just getting an answer. You are watching the AI **decide** what to investigate. It handles the research, cross-references your identity, and synthesizes a roadmap while you watch. 🤜🤛
@@ -44,7 +44,7 @@ claude "Review my messy notes in samples/input and propose a 5-day content roadm
 
 ## ✅ Exercise: The Vibe Loop
 1. Run the discovery prompt above.
-2. Open the [**`samples/output/02_first_magic/propose_roadmap_output.md`**](samples/output/02_first_magic/propose_roadmap_output.md) to see the "Pro" level result.
+2. Open the [**`course_example_files/output/02_first_magic/propose_roadmap_output.md`**](course_example_files/output/02_first_magic/propose_roadmap_output.md) to see the "Pro" level result.
 3. Now, **Vibe** with the result. Tell Claude: *"I like day 3, but make it more analogies-driven."* 
 
 **Ready to harden these vibes into a repeatable factory?**
