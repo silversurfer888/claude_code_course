@@ -5,7 +5,7 @@ Hey AI Tech Enthusiast! Allen here. 🤜🤛
 
 In the last module, you witnessed the **"First Magic"**—the native agentic behavior that lets Claude research your world autonomously. 
 
-But if you want to scale, you need **Industrial Acceleration.** Custom skills are your "System Blueprints"—they allow you to repeat complex processes without re-writing the instructions every single time. This is where Claude Code truly shines.
+But if you want to scale, you need **Agentic Acceleration.** Custom skills are your "System Blueprints"—they allow you to repeat complex processes without re-writing the instructions every single time. This is where Claude Code truly shines.
 
 ## 🎨 Section 1: The Vibe-to-Skill Philosophy
 Before we build our automation factory, we need to understand the two phases of creation:

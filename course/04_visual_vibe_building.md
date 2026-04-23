@@ -36,7 +36,7 @@ Start by asking for a structural plan. Do not ask for code yet.
 
 **Note**: Notice how little "brainpower" this took from your end. You didn't have to map out a website; you just defined the **Goal** and gave **High-Level Instructions.** You are leaning on your AI Assistant to handle the structural heavy lifting. From here, you can iterate, add your own opinionated inputs, and refine the bones until they feel right.
 
-**The AI Response**:
+**The AI Assistant's Response**:
 > *"For AITechDad's brand, we need a high-torque structure:
 > 1. **Hero Section**: The 'Implementation Gap' Hook.
 > 2. **The Problem**: Metaphorical breakdown of the 'Chatbot Cage.'
@@ -50,7 +50,7 @@ Before you accept the bones, you iterate. This is where you ensure the **Strateg
 **Your Feedback**:
 > *"The solution section shouldn't just be about my 'Big Five' Production Line. It should be about upskilling on Agentic Assistants to take on big chunks of work—from planning to execution. Update the structure to reflect that mission."*
 
-**The AI Refinement**:
+**The AI Assistant's Response**:
 > *"Copy that. Let's pivot the engine. Updated structure:
 > 1. **Hero Section**: The 'Implementation Gap.'
 > 2. **The Problem**: The 'Chatbot Cage' (Simple prompting vs. Agentic Planning).
