@@ -1,7 +1,7 @@
-# Vibe Coding with AI Assistants  🤜🤛
+# Vibe Coding Course with Agentic AI Assistants  🤜🤛
 ### *The "Zero-to-Hero" Agentic Workflow*
 
-Welcome to the future of content production. You aren't here to learn how to "chat" with AI—you're here to build an **Engine.**
+Welcome to the future of "work". You aren't here to learn how to "chat" with AI—you're here to build a **Productivity Engine**, using Agentic AI Assistants.
 
 This course will take you from a raw, messy idea to a fully automated, agentic content factory in 7 modules.
 
