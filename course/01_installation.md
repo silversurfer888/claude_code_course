@@ -1,7 +1,7 @@
 # Module 1: The Launchpad 🚀
 ### *Installation & Workspace Setup*
 
-Hey Creator! Allen (AITechDad) here. 🤜🤛
+Hey AI Tech Enthusiast! Allen (AITechDad) here. 🤜🤛
 
 First things first: We need to get the engine running. Choose the path that matches your comfort level. 
 
@@ -43,13 +43,33 @@ Now that the tech is ready, point it at the course folder. **You must be "Inside
 ## 🧔 Step 3: Build Your Brain
 Run this command to begin your personalized strategy interview:
 ```bash
-onboard-me
+/onboard-me
 ```
-*(Note: Use `claude onboard-me` or `antigravity onboard-me` if the shortcut isn't set.)*
+*(Note: Use `antigravity /onboard-me` or `claude /onboard-me` if typing directly in the terminal.)*
 
+You should get a response that looks like this:
+
+```markdown
+Welcome to the Agentic Forge, AI Tech Enthusiast! 🤜🤛
+
+I'm ready to help you build your Agent's Brain. This interview is designed to give your assistant the context it needs to stop being a "chatbot" and start being your Technical Co-Founder.
+
+I have 7 specific questions for you. Take your time with these—the higher the quality of your input, the more "torque" your assistant will have when executing your missions.
+
+🏁 The Strategy Interview
+1. Who are you? (Brand Persona): If you were a car, a tool, or a famous character, who would you be? Describe your persona's background and vibe.
+2. Who are you helping? (Target Audience): Be specific. Who is your ideal customer or reader?
+3. What keeps them up at night? (Pain Points): What is the #1 friction point your audience is struggling with right now?
+4. What is your 'Why'? (Core Mission): Beyond making money, what is the impact you're trying to have? (e.g., "Bridging the Implementation Gap").
+5. What is the Mission for the next 90 days? (Goals): What are the top 2-3 projects we are focusing on right now? (e.g., Launching a newsletter, building a lead magnet).
+6. What’s in your toolbox? (Tech Stack): List your essential platforms (e.g., Substack, Beehiiv, X, LinkedIn, Antigravity, VS Code).
+7. How do you sound? (Brand Voice): Casual or professional? Metaphor-heavy or direct? List any "Banned Words" you never want to hear your AI say.
+
+Drop your answers below (you can answer all at once or one by one), and I'll surgically update your CLAUDE.md to reflect your new Agentic Identity.
+```
 ---
 
 ## ✅ Verification
 Once the interview ends, look for [**`CLAUDE.md`**](course_example_files/output/01_installation/CLAUDE.md) in your project root. 
 
-👉 **[Module 2: The Magic Moment](02_first_magic.md)**
+👉 **[Module 2: Agentic Magic](02_agentic_magic.md)**

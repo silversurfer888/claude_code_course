@@ -1,43 +1,41 @@
-# Claude Code for Solo Creators 🤜🤛
+# Vibe Coding with AI Assistants  🤜🤛
 ### *The "Zero-to-Hero" Agentic Workflow*
 
 Welcome to the future of content production. You aren't here to learn how to "chat" with AI—you're here to build an **Engine.**
 
-This course will take you from a raw, messy idea to a fully automated, agentic content factory in 6 modules.
+This course will take you from a raw, messy idea to a fully automated, agentic content factory in 7 modules.
 
 ---
 
 ## 🏗️ The Curriculum
 
 ### 🚀 **[Module 1: The Launchpad](course/01_installation.md)**
-Get the engine running and build your **"Creator Brain"** (`CLAUDE.md`). Choose between the visual **Claude App/Antigravity** or the high-performance **CLI Engine**.
+Install your Agentic Assistant (Claude Code or Antigravity). Get the engine running and build your **"Creator Brain"** (`CLAUDE.md`). This is where you move from "talking to a bot" to "commanding a workspace."
 
-### ✨ **[Module 2: The Magic Moment](course/02_first_magic.md)**
-Experience the raw power of context. Witness the **Native Research Engine**—the AI's built-in ability to research your workspace and synthesize a 5-day strategy without any manual prompting.
+### ✨ **[Module 2: Agentic Magic](course/02_agentic_magic.md)**
+Experience the raw power of context. Witness the **Native Research Engine**—the AI's ability to autonomously audit your files and synthesize a 5-day content strategy without a single manual prompt.
 
-### 🏭 **[Module 3: Custom Skills](course/03_custom_skills.md)**
-Build your exclusive production line. You'll create and run the **Big Five Skills** to auto-accelerate your weekly cycle:
-1. `ideate-niche`: The extraction hook-spark.
-2. `script-it`: Turning hooks into formatted scripts.
-3. `multiply`: One script into 5+ platform-specific assets.
-4. `audit-voice`: Stripping "AI-isms" to restore your unique brand.
-5. `viral-bridge`: Connecting your content to your ecosystem.
+### 🏭 **[Module 3: Acceleration with Skills](course/03_acceleration_with_skills.md)**
+Build your automated production line. Create and "harden" your first **Custom Skills** to auto-accelerate your weekly cycle: Hook Ideation, Scripting, Distribution, and Brand Auditing.
 
-### 💎 **[Module 4: Website Vibe-Building](course/04_website_vibe_building.md)**
-The ultimate visual laboratory. We'll use **Vibe-Coding** to architect a **Digital Showroom** (`index.html`). Learn how to iterate on design and logic as a Creative Director.
+### 💎 **[Module 4: Visual Vibe-Building](course/04_visual_vibe_building.md)**
+The ultimate visual laboratory. Use **Vibe-Coding** to architect a **Digital Showroom** (`index.html`). Learn how to iterate on design and logic as a Creative Director, manifesting technical assets through natural language.
 
-### 🛰️ **[Module 5: The Agentic Pulse](course/05_agentic_automation.md)**
-Master **Commander's Intent.** Lead a department of agents through high-level delegation. Run "Pivot Scans" to audit market trends and conduct parallel competitor audits at 10x speed.
+### 🔌 **[Module 5: MCP Unlocked](course/05_mcp_unlocked.md)**
+Give your assistant hands and eyes everywhere. Use the **Model Context Protocol** to plug into external tools like **Loops**, **Stripe**, and **Google Search.** Take direct action in tools you don't even have open.
 
-### 🔁 **[Module 6: The Infinite Content Loop](course/06_infinite_scale.md)**
+### 🛰️ **[Module 6: Multi-Agent Orchestration](course/06_agentic_automation.md)**
+Master **Commander's Intent.** Lead a department of agents through **Multi-Task Spawning** and **Lifecycle Orchestration.** Run "Pivot Scans" and "Competitive Edge Loops" to out-maneuver your market at 10x speed.
+
+### 🔁 **[Module 7: The Infinite Content Loop](course/07_infinite_scale.md)**
 Scale to infinity. Consolidate your knowledge into a **Weekly Ritual** and see the path to advanced visual manifestation—talking heads, carousels, and viral reverse-engineering.
 
 ---
 
 ## 📂 Project Structure
-- **/course**: The 6-module curriculum.
+- **/course**: The 7-module curriculum.
 - **/course_example_files/input**: Raw materials for testing your skills.
-- **/course_example_files/output**: The "Solution Keys" to see what elite results look like.
+- **/course_example_files/output**: The "Solution Keys" to see what elite, agentic results look like.
 - **/skills**: (You'll create this!) Where your automated "Employees" live.
 
 **Ready to start? Let's go.**
