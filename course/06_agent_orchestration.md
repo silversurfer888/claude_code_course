@@ -135,14 +135,14 @@ Here are two orchestrated "Chains" we ran to generate the solution keys in your 
 ### 1. The Strategic Pivot Chain 🛰️
 **Mission**: Audit internal strategy against external market volatility.
 **Workflow**: `Strategist Agent` (Web Scan) → **User Checkpoint** → `Auditor Agent` (Gap Analysis) → `Creative Agent` (Drafting the Pivot).
-**Prompt**: *"Research the last 48 hours of AI creator news. **Stop and summarize the top 3 high-signal trends for me. Once I approve,** audit them against my Module 2 roadmap (/course_example_files/output/02_designing_your_system/roadmap_design_output.md) and draft a 3-day 'Pivot Plan' that fixes any logic gaps. Output results into /course_example_files/output/06_agentic_automation/pivot_scan_output.md"*
-**Output**: [**`pivot_scan_output.md`**](course_example_files/output/06_agentic_automation/pivot_scan_output.md)
+**Prompt**: *"Research the last 48 hours of AI creator news. **Stop and summarize the top 3 high-signal trends for me. Once I approve,** audit them against my Module 2 roadmap (/course_example_files/output/02_designing_your_system/roadmap_design_output.md) and draft a 3-day 'Pivot Plan' that fixes any logic gaps. Output results into /course_example_files/output/06_agent_orchestration/pivot_scan_output.md"*
+**Output**: [**`pivot_scan_output.md`**](course_example_files/output/06_agent_orchestration/pivot_scan_output.md)
 
 ### 2. The Competitive Edge Loop 🧐
 **Mission**: Reverse-engineer competitor successes to find your unique **Competitive Edge.**
 **Workflow**: `Trends Agent` (Scan competitors) → **User Checkpoint** → `Strategist Agent` (Identify the Gap) → `Ghostwriter Agent` (Update landing page copy).
 **Prompt**: *"Audit the landing pages of my top 2 competitors. **Stop and present the 'Implementation Gap' you've identified. After my approval,** use that data to rewrite my 'Hero Section' copy to reflect my unique competitive edge."*
-**Output**: [**`competitor_audit_output.md`**](course_example_files/output/06_agentic_automation/competitor_audit_output.md)
+**Output**: [**`competitor_audit_output.md`**](course_example_files/output/06_agent_orchestration/competitor_audit_output.md)
 
 ---
 

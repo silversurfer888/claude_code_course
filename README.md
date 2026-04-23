@@ -26,7 +26,7 @@ Use **Vibe-Coding** to architect a **visual web landing page** (`index.html`). L
 ### 🔌 **[Module 5: MCP Unlocked](course/05_mcp_unlocked.md)**
 Give your assistant hands and eyes everywhere. Use the **Model Context Protocol** to plug into external tools like **Loops**, **Stripe**, and **Google Search.** Take direct action in tools you don't even have open.
 
-### 🛰️ **[Module 6: Multi-Agent Orchestration](course/06_agentic_automation.md)**
+### 🛰️ **[Module 6: Multi-Agent Orchestration](course/06_agent_orchestration.md)**
 Master **Commander's Intent.** Lead a department of agents through **Multi-Task Spawning** and **Lifecycle Orchestration.** Run a few example tasks involving human in the loop checkpoints -- "Pivot Scans" and "Competitive Edge Loops" --  to out-maneuver your market at 10x speed while controlling for quality.
 
 ### 🔁 **[Module 7: The Infinite Content Loop](course/07_infinite_scale.md)**

@@ -106,4 +106,4 @@ Once configured, you don't talk to the "Server"—you talk to your **Assistant**
 ### ⏭️ Next Steps
 Now that you understand how to extend your assistant's reach, let's look at how to lead these "connected agents" at scale.
 
-👉 [**Module 6: The Agentic Pulse**](06_agentic_automation.md)
+👉 [**Module 6: Multi-Agent Orchestration**](06_agent_orchestration.md)
