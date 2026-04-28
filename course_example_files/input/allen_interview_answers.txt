@@ -10,13 +10,13 @@ Question 3: What is your Core Mission?
 Answer: To bridge the "Implementation Gap" between having an AI tool and actually building an automated business engine.
 
 Question 4: What are your Current Project Goals?
-Answer: Scaling my newsletter "ViralPulse" to 50k and building my "Resource Vault" lead magnet.
+Answer: Building up a Resource Hub and driving traffic to it. Showcasing workflows that get accelerated with AI. Building up a course to teach my learnings. 
 
 Question 5: What is your preferred Brand Voice?
 Answer: Casual, no fluff, metaphors about engines/gardening/DIY. Always end with "Stay Viral 🤜🤛".
 
 Question 6: What is your Tech Stack?
-Answer: Claude Code (CLI), VS Code, Substack, and X/LinkedIn for distribution.
+Answer: Claude Code (CLI), VS Code, Substack, and Instagram/Tiktok for distribution.
 
 Question 7: Any constraints?
 Answer: No corporate buzzwords like "unleash" or "delve." Keep it real.

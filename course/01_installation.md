@@ -70,6 +70,8 @@ Drop your answers below (you can answer all at once or one by one), and I'll sur
 ---
 
 ## ✅ Verification
-Once the interview ends, look for [**`CLAUDE.md`**](course_example_files/output/01_installation/CLAUDE.md) in your project root. 
+Once the interview ends, look for [**`CLAUDE.md`**](course_example_files/output/01_installation/CLAUDE.md) OR [**`AGENT.md`**](course_example_files/output/01_installation/AGENT.md) in your project root. 
+
+The filenames are largely interchangeable. From the AI's perspective, the content of the file is what matters, not the name. CLAUDE.MD is largely used for claude code users; whereas Agent.md is a generic name that can be used by other Agentic Assistants.
 
 👉 **[Module 2: Agentic Magic](02_agentic_magic.md)**

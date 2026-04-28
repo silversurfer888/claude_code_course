@@ -12,7 +12,7 @@ The earlier generation of AI users simply used the **"Basic Chatbot."** They cop
 
 By using an Agent like Antigravity or Claude Code, you move into the **"Agentic Realm."** Here is the difference:
 
-| Feature | Basic Chatbot | The Agentic Assistant (Antigravity | Claude Code) |
+| Feature | Basic Chatbot | The Agentic Assistant (Antigravity \| Claude Code) |
 | :--- | :--- | :--- |
 | **Context** | You have to "remind" it of your persona every time. | **Baked-In:** It lives in your `CLAUDE.md` brain. |
 | **Data** | You must copy/paste or upload files manually. | **Auto-Pilot:** It decides which files to read and investigate. |
