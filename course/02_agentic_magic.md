@@ -14,7 +14,7 @@ By using an Agent like Antigravity or Claude Code, you move into the **"Agentic 
 
 | Feature | Basic Chatbot | The Agentic Assistant (Antigravity \| Claude Code) |
 | :--- | :--- | :--- |
-| **Context** | You have to "remind" it of your persona every time. | **Baked-In:** It lives in your `CLAUDE.md` brain. |
+| **Context** | You have to "remind" it of your persona every time. | **Baked-In:** It lives in your `CLAUDE.md` OR `AGENT.md` brain. |
 | **Data** | You must copy/paste or upload files manually. | **Auto-Pilot:** It decides which files to read and investigate. |
 | **Action** | It can only talk or provide code blocks. | **Agency:** It can create folders, write files, and run commands. |
 | **Memory** | It forgets your rules as the chat gets long. | **Persistent:** It updates its own instruction set for future runs. |

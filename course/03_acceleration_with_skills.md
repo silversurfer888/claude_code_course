@@ -37,9 +37,9 @@ The AI will surgically update your brain for you. Open [**`CLAUDE.md`**](../CLAU
 ### Step 4: The Action (Using the Skill)
 Now, next Monday, you don't talk to me. You just type:
 ```bash
-/ideate-niche
+/ideate-niche [Source]
 ```
-The AI instantly triggers the exact logic you saved. **You have just automated your first employee.**
+The AI instantly triggers the exact logic you saved. **Always specify a source (like `/input`) for it to apply its magic to.** If you don't provide a source, the AI will default to the directory specified in the skill definition (in this case, your `/input` folder).
 
 ---
 
@@ -49,31 +49,31 @@ We are going to build your first five automated employees. These capture your pr
 ### 1. `ideate-niche` (The Spark) ⚡
 - **Vibe Kickstart**: *"Look at my messy notes in `/input` and find the 5 most viral hooks. Use dad metaphors."*
 - **Save Skill**: *"Save that as a skill called `/ideate-niche` in my `CLAUDE.md`."*
-- **Use it again next time**: Run `/ideate-niche`. Re-run this whenever your `/input` folder gets new research or fresh notes to instantly extract the next batch of hooks.
+- **Use it again next time**: Run `/ideate-niche [Source]`. Specify the folder or file for it to apply its magic to. If no source is provided, it will default to the `/input` directory defined in the skill.
 - **Result**: [**`ideate-niche_output.md`**](../course_example_files/output/03_acceleration_with_skills/ideate-niche_output.md)
 
 ### 2. `script-it` (The Writer) ✍️
 - **Vibe Kickstart**: *"Take Hook #2 and turn it into a 60-second video script and a Substack draft."*
 - **Save Skill**: *"Save that as a skill called `/script-it` in my `CLAUDE.md`."*
-- **Use it again next time**: Run `/script-it`. Use this whenever you have a new hook to ensure your scripts always follow the same high-performing structure.
+- **Use it again next time**: Run `/script-it [Source]`. Specify the hook or idea to process. If no source is provided, it will default to the most recent content in your chat history.
 - **Result**: [**`script-it_output.md`**](../course_example_files/output/03_acceleration_with_skills/script-it_output.md)
 
 ### 3. `multiply` (The Distributor) 📢
 - **Vibe Kickstart**: *"Turn this script into 5 tweets, a LinkedIn post, and 3 IG Reel hooks."*
 - **Save Skill**: *"Save that as a skill called `/multiply` in my `CLAUDE.md`."*
-- **Use it again next time**: Run `/multiply`. Apply this to every new script you write to instantly fragment one idea into a week's worth of distribution assets.
+- **Use it again next time**: Run `/multiply [Source]`. Specify the input source to instantly fragment one idea. If no source is provided, it will default to the most recent script in your chat history.
 - **Result**: [**`multiply_output.md`**](../course_example_files/output/03_acceleration_with_skills/multiply_output.md)
 
 ### 4. `audit-voice` (The Humanizer) 🧔
 - **Vibe Kickstart**: *"This script sounds too corporate. Strip the AI-bias and make it sound like AITechDad."*
 - **Save Skill**: *"Save that as a skill called `/audit-voice` in my `CLAUDE.md`."*
-- **Use it again next time**: Run `/audit-voice`. Re-run this as the final check on every draft to keep your brand voice "Hardened" and free of AI-jargon.
+- **Use it again next time**: Run `/audit-voice [Source]`. Specify the source to keep your brand voice "Hardened." If no source is provided, it will default to the most recent draft in your chat history.
 - **Result**: [**`audit-voice_output.md`**](../course_example_files/output/03_acceleration_with_skills/audit-voice_output.md)
 
 ### 5. `viral-bridge` (The Closer) 🤜🤛
-- **Vibe Kickstart**: *"Connect this content to my Resource Vault lead magnet and add a sign-off for ViralPulse."*
+- **Vibe Kickstart**: *"Connect this content to the ViralSpin Ecosystem. We may have offer a free resource via our Resource Hub at https://www.viralspin.ai/resources or a paid resource like our Vibe Coding Course at https://www.viralspin.ai/vibe."*
 - **Save Skill**: *"Save that as a skill called `/viral-bridge` in my `CLAUDE.md`."*
-- **Use it again next time**: Run `/viral-bridge`. Re-run this to automatically bolt your conversion engine onto every piece of content before you publish.
+- **Use it again next time**: Run `/viral-bridge [Source]`. Specify the source to bolt on your conversion engine. If no source is provided, it will default to the most recent content in your chat history.
 - **Result**: [**`viral-bridge_output.md`**](../course_example_files/output/03_acceleration_with_skills/viral-bridge_output.md)
 
 ---
